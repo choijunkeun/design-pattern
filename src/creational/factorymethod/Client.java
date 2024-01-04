@@ -17,7 +17,6 @@ public class Client {
         System.out.println("facA = " + facA);
         System.out.println("facA_2 = " + facA_2);
 
-
         System.out.println("product1 = " + product1);
         System.out.println("product1_2 = " + product1_2);
 
